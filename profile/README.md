@@ -9,3 +9,5 @@ The meetings consist of short “turbo-talks” from anyone that would like to s
 ## Participation
 Participation is mandatory for continued membership in the group. What this means is that to retain a subscription to the mailing list and to be allowed entrance to the meetings, you must contribute to the group in some form. The best way to do this is to attend the meetings and speak about what you’re working on, what you’re up to, etc.
 
+## More Info
+For more information on our group and meetings, please visit our website at <a href="https://takeonme.org">TAKEONME.ORG</a>.
